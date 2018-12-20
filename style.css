@@ -38,7 +38,8 @@
 
 .error-type {
 	color: #233137;
-	line-height: 1.2;
+	line-height: 1.4;
+	font-size: 16px;
 	text-align: center;
 	font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
 }
